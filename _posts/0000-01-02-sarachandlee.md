@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 --
-Your tet
+# Check it out, I'm learning GitHub
 Use the left arrow to go back!
